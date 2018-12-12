@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "name": "Amine", "list": ["lait","fromage","oeufs"] },
+    { "name": "Youssef", "list": ["boisson"] },
+    { "name": "Zakaria", "list": ["amandes","dattes"] }
+  ]
+}
